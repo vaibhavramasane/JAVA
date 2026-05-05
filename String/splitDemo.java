@@ -10,10 +10,6 @@ class splitDemo{
 		System.out.println("Enter String: ");
 		String s = xyz.nextLine();
 		
-		//for(int i=0; i<s.length(); i++){
-			
-			
-		
 		// split String 
 		// first string convert into array then split them
 		
